@@ -14,4 +14,4 @@
 *From now onwards, no need to add the project description in project_doc.md file, instead so as mentioned above.*
 
 
-## All the best for **Hacktoberfest** :slight_smile:
+## All the best for **Hacktoberfest** 🙂
