@@ -2,7 +2,16 @@
 body {
     margin: 0px;
     overflow:hidden;
+    background: plum;
 }
+
+body h1{
+    color: rgb(18, 241, 92);
+    background-color: rgb(248, 244, 244);
+    text-align: center;
+    margin: 20 20;
+}
+
 .color1{
 margin-bottom: 10px;
 
